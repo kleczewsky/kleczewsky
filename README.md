@@ -16,4 +16,4 @@ Jestem młodym adeptem sztuki programowania, który posłał pierwsze koty za p�
 -------------
 
 Prywatnie oprócz technologią interesuję się również światem otaczającym nas. Lubie uczyć się nowych rzeczy, w jaki sposób powstają, co umożliwia im działanie. 
-W wolnych chwilach biorę na cel mechanikę, lotnictwo hobbistycznie również sportem strzeleckim. Staram się nie być biernym w rzeczach, które mnie dotyczą.
+W wolnych chwilach biorę na cel mechanikę, lotnictwo, hobbistycznie również sportem strzeleckim. Staram się nie być biernym w rzeczach, które mnie dotyczą.
