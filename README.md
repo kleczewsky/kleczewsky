@@ -1,19 +1,20 @@
-### 👀 Kim jestem ? [kleczewsky.com](https://kleczewsky.com/)
+### 👀 Who I am ? [kleczewsky.com](https://kleczewsky.com/)
 -------------
-Cześć! 👋 
+Hi! 👋
 
-Jestem młodym adeptem sztuki programowania, który posłał pierwsze koty za płoty. Swoją przygodę zacząłem od C++ i modyfikacji gier w ich środowisku runtime (operacje na pamięci). Było to dla mnie katalizatorem pasji do kodowania. Nauczyłem się wtedy toczyć epickie bitwy z bugami oraz szybko przegrupowywać się po porażkach. Była to też świetna okazja, aby zapoznać się z technikami inżynierii wstecznej programów(gier).
+I`m a full stack developer. Main technologies that I use are Laravel and React. I work with attention to detail to deliver and enhance features that I would be proud of. I strive to improve experiences of people using the web by understanding their needs and their habits. I take great pleasure working with new technologies, I make it my goal to improve myself and my skills. Always grateful for people that share their knowledge.
 
 
-### 📫 Kontakt
+### 📫 Contact
 -------------
 
 📧 ekkleczewski@gmail.com
 
 💻 [LinkedIn](https://www.linkedin.com/in/kleczewsky/)
 
-### ✈️ Prywatnie
+### ✈️ Offtime
 -------------
 
-Prywatnie oprócz technologią interesuję się również światem otaczającym nas. Lubie uczyć się nowych rzeczy, w jaki sposób powstają, co umożliwia im działanie. 
-W wolnych chwilach biorę na cel mechanikę, lotnictwo, hobbistycznie również sportem strzeleckim. Staram się nie być biernym w rzeczach, które mnie dotyczą.
+Personally, in addition to technology, I am also interested in the world around us. I like to learn new things, how they are created, what makes them possible. 
+In my spare time I take to mechanics, aviation, also shooting sports as a hobby. 
+I try not to be passive in things that affect me.
