@@ -1,8 +1,12 @@
 ### 👀 Who I am ? [kleczewsky.com](https://kleczewsky.com/)
 -------------
-Hi! 👋
+Hi there! 👋
 
-I`m a full stack developer. Main technologies that I use are Laravel and React. I work with attention to detail to deliver and enhance features that I would be proud of. I strive to improve experiences of people using the web by understanding their needs and their habits. I take great pleasure working with new technologies, I make it my goal to improve myself and my skills. Always grateful for people that share their knowledge.
+I'm a passionate Full Stack Developer specializing in Laravel and React. I pride myself on attention to detail, ensuring every feature I deliver is something I can be proud of. My mission is to enhance user experiences by truly understanding their needs and habits.
+
+I thrive on working with cutting-edge technologies and constantly seek to improve my skills. I'm always grateful to those who share their knowledge, and I love being part of a community that grows together. 🚀
+
+Let's create something amazing! 🌟
 
 
 ### 📫 Contact
